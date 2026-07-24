@@ -8,7 +8,7 @@ This Power BI dashboard provides an overview of a cookie company's sales perform
 
 ## Dashboard Preview
 
-> *https://github.com/Danyrex/COOKIE-SALES-DASHBOARD/blob/main/snapshots/Dashboard.jpg*
+> https://github.com/Danyrex/COOKIE-SALES-DASHBOARD/blob/main/snapshots/Dashboard.jpg
 
 ---
 
