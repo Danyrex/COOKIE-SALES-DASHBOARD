@@ -8,7 +8,7 @@ This Power BI dashboard provides an overview of a cookie company's sales perform
 
 ## Dashboard Preview
 
-> *![Dashboard](images/Dashboard.png)*
+> *![Dashboard](images/Dashboard.jpg)*
 
 ---
 
